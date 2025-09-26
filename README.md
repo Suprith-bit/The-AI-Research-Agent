@@ -298,11 +298,12 @@ research_ai/
 │   ├── research_report_*.md     # Markdown reports
 │   ├── research_report_*.json   # JSON data files
 │   └── galileo_context.pkl      # Persistent context
+│ 
+├── 📄 Test
+│   ├── test_enhanced_context.py  # just for testing (ignore)
+│   ├── test_galileo.py           # just for testing (ignore)
 │
-└── 📚 Documentation
-    ├── README.md                # This file
-    ├── IMPLEMENTATION_COMPLETE.md
-    └── README_FIXES.md
+└── 📚 README.md
 ```
 
 ---
