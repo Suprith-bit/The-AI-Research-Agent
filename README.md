@@ -351,17 +351,15 @@ research_ai/
 
 ## 🚀 **Performance Metrics**
 
-### **Speed**
-- **Research Time**: 2-3 minutes per topic
+### **Speed (At present)**
+- **Research Time**: 5-6 minutes per topic
 - **Sub-questions**: 4-6 per research session
-- **Sources**: 20-35 verified sources per report
-- **Report Length**: 800-1500 words average
+- **Sources**: 10-15 verified sources per report
+- **Report Length**: 500-1000 words average
 
 ### **Quality**
-- **Citation Rate**: 80%+ of statements have inline citations
 - **Source Diversity**: Multiple domains and perspectives
 - **Accuracy**: Cross-verified information from reliable sources
-- **User Satisfaction**: Professional-grade reports suitable for presentation
 
 ---
 
@@ -403,10 +401,8 @@ research_ai/
 - ✅ **Context Retention** - Report-aware follow-up system
 - ✅ **Beautiful UI** - Premium interface with dark theme
 - ✅ **Dual Output** - Markdown + JSON generation
-- ✅ **Performance Optimization** - 2-3x faster than original
 
 ### **User Experience**
-- ✅ **Professional Reports** - Publication-ready research documents
 - ✅ **Real Citations** - All sources verified and accessible
 - ✅ **Intuitive Interface** - No technical knowledge required
 - ✅ **Fast Results** - Complete research in minutes
@@ -416,4 +412,3 @@ research_ai/
 
 **Project Galileo represents the future of AI-powered research - autonomous, intelligent, and human-like in its approach to information discovery and synthesis.** 🚀
 
-*Built with ❤️ by the AI Research Team*
